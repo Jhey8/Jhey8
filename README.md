@@ -1,6 +1,4 @@
 
-# 👋 Hola, soy Jheymy
-
 <p align="center">
   <img src="./images/banner-jheymy.png" alt="Jheymy Barboza - Frontend Developer" width="100%">
 </p>
@@ -10,6 +8,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Jhey8-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhey8)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jheymy%20Barboza%20Mondragon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jheymy-barboza-mondragon-423132387/)
+
+## 👋 Hola, soy Jheymy
 
 ## 🚀 Sobre mi
 
