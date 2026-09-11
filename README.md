@@ -1,5 +1,10 @@
 
 # 👋 Hola, soy Jheymy
+
+<p align="center">
+  <img src="./images/banner-jheymy.png" alt="Jheymy Barboza - Frontend Developer" width="100%">
+</p>
+
 [![Email](https://img.shields.io/badge/Email-jheymybm%40hotmail.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jheymybm@hotmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jhey8-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhey8)
